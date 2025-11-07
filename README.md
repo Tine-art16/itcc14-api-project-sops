@@ -2,7 +2,7 @@
 
 ## Members
 1.
-2.
+2. [Karla Mae Alo-ot](https://github.com/Historia2005)
 3. [Nadjah Dimaporo](https://github.com/nadjahdimaporo)
 4. [John Paul Nob](https://github.com/johnpaulnob08)
 
